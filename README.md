@@ -5,7 +5,7 @@ Imagine usar o poder do **Machine Learning** para prever o futuro de uma luta no
 
 A proposta é explorar uma ampla gama de **dados históricos** dos lutadores, desde suas performances passadas até estatísticas detalhadas sobre seu estilo de combate. Utilizando abordagens poderosas como o <a href='https://en.wikipedia.org/wiki/Elo_rating_system'>sistema Elo</a> e avançados algoritmos de classificação, conseguimos criar **modelos preditivos** capazes de prever os resultados das lutas, até mesmo aquelas que ainda não aconteceram!
 
-Neste repositório, você encontrará uma jornada completa que vai desde a **exploração e pré-processamento dos dados**, passando pela **criação e otimização dos modelos**, até o **teste de lutas sem resultado**. Cada etapa é pensada para aproveitar ao máximo as informações, extraindo insights valiosos que podem transformar a forma como entendemos e analisamos o UFC.
+Neste repositório, você encontrará todo o processo de ML, que vai desde a **exploração e pré-processamento dos dados**, passando pela **criação e otimização dos modelos**, até o **teste de lutas sem resultado**. Cada etapa é pensada para aproveitar ao máximo as informações, extraindo insights valiosos que podem transformar a forma como entendemos e analisamos o UFC.
 
 ## Estrutura do Repositorio
 
