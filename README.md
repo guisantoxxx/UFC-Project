@@ -16,7 +16,7 @@ Neste repositório, você encontrará todo o processo de ML, que vai desde a **e
   Desenvolve, treina e otimiza os modelos de machine learning para previsão dos resultados das lutas.
 
 - **testagem.ipynb**  
-  Testa os modelos criados em lutas que ainda não possuem um resultado definido, permitindo ajustes e validações.
+  Testa os modelos criados em lutas que ainda não possuem um resultado definido.
 
 - **scripts.py**  
   Contém funções auxiliares que são utilizadas nos notebooks para facilitar o processamento e a análise dos dados.
